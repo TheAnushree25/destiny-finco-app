@@ -1,9 +1,10 @@
 {
-  "versionCode": 2,
-  "versionName": "0.0.2",
-  "apkUrl": "https://github.com/TheAnushree25/destiny-finco-app/releases/latest/download/DestinyFinco.apk",
+  "versionCode": 3,
+  "versionName": "0.1.0",
+  "apkUrl": "https://github.com/TheAnushree25/destiny-finco-app/releases/download/v0.1.0-build3/DestinyFinco-0.1.0-build3.apk",
   "mandatory": false,
-  "notes": "This update fixes \"Could not send OTP\" when signing in.",
-  "sizeBytes": 53832042,
+  "notes": "This update fixes signing in: the OTP is filled in for you, and registered numbers go straight to their dashboard. From now on most improvements install themselves without downloading the app again.",
+  "sizeBytes": 57487144,
+  "md5": "b218fc844de5c538d1035d933e045a3a",
   "releasedAt": "2026-10-31"
 }
